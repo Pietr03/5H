@@ -86,3 +86,64 @@ L'attività economica è l'insieme di tutte le operazioni che l'uomo compie per 
 - **Consumo**: l'utilizzo delle risorse (beni e servizi) per soddisfare i propri bisogni.
 - **Risparmio**: la rinuncia a un consumo immediato per far fronte a un consumo futuro.
 - **Investimento**: l'impiego di quanto risparmiato.
+
+---
+
+## Codice ATECO *(pag. 9)*
+Fornisce una classificazione in base al tipo di attività economica che viene effettuata.
+È composta da una struttura gerarchica a 6 livelli che indicano:
+- le sezioni,
+- le divisioni,
+- i gruppi, 
+- le classi, 
+- le categorie, 
+- le sotto categorie.
+
+---
+
+## Efficacia ed Efficienza
+### Efficacia
+È il rapporto tra gli oiettivi ottenuti e gli obiettivi attesi.
+
+### Efficienza
+È il rapporto tra i risultati conseguiti e le risorse impiegate.
+
+---
+
+## Costi aziendali
+
+È un onere(spesa) che viene sostenuta per acquistare un prodotto o usufruire di un servizio, in un'azienda l'obiettivo è quello di produrre un **profitto**.
+
+### Profitto
+Il profitto si ottiene tra la differenza dei ricavi e dei costi
+```
+Profitto = ricavi - costi
+```
+
+### Ricavo
+Il ricavo è il guadagno ottenuto dalla vendita dei propri prodotti o servizi, si ottiene moltiplicando la quantità dei prodotti e il prezzo di vendita.
+```
+Prezzo * quantità
+```
+
+### Costo
+I costi si classificano in:
+- costi di prodotto, sono quei costi per la realizzazione di un prodotto o servizio e comprendono:
+    - **costi diretti:**
+        - i costi di lavoro diretto, (Es: addetto alla produzione)
+        - i costi di materiali diretti, (Es: acquisto materie prime, semi lavorati, e componenti vari )
+    - **costi indiretti:**
+        - di produzione, (Es: costi fissi, indipendentemente dal tipo di attività, corrente, acqua, ecc..)
+    - **costi di periodo:**
+        - tutte le attività che non sono associabili alla realizzazione del prodotto o servizio:
+            - i costi di ricerca e sviluppo
+            - le spese amministrative
+            - gli stipendi
+
+
+    - **Costi fissi (Non evitabili):**
+        - Non variano in base alla quantità prodotta, (Es: affitto del locale, gli stipendi, le bollette)
+    - **Costi variabili (Evitabili):**
+        - Non sono fondamentali per l'azienda e si possono moderare, possono variare in base alla quantità prodotta, (Es: costi relativi alle materie prime, costi di trasporto, costi di vendita, pubblicità, ecc..)
+
+![Grafici ricavi e costi](./immagini/GPOI_PROFITTO_RICAVI.jpg)
