@@ -1,0 +1,69 @@
+<link rel="stylesheet" href="../style.css">
+
+# Record
+
+## Record logico
+**Record logico**: Un'unità di dati significativa per l'applicazione, definita in base alla struttura logica dei dati (es. una riga di una tabella). I record logici sono rappresentazioni astratte dell'informazione e vengono gestiti a livello di software applicativo.
+
+## Record fisico
+**Record fisico**: Un'unità di dati così come viene effettivamente memorizzata su disco o in memoria, dipendente dal formato del filesystem. Un record fisico può contenere uno o più record logici e viene suddiviso in blocchi di dimensioni fisse per ottimizzare l'accesso ai dati.
+
+## Magic byte
+Il **magic byte** è una sequenza specifica di byte all'inizio di un file o di un blocco di dati, utilizzata per identificare il tipo di file o il formato di un dato. È comunemente utilizzato nei sistemi operativi per riconoscere i formati di file e garantire l'integrità dei dati.
+
+## Carattere di fine record (EOR, End Of Record)
+Il **carattere di fine record** (EOR) è un marcatore utilizzato nei file di testo per indicare la fine di un record o riga. Comunemente, questo è rappresentato da **carriage return** (`\r`) o **line feed** (`\n`), oppure dalla combinazione di entrambi (`\r\n`), che dipende dal sistema operativo.
+
+## Primary Key
+La **Primary Key** è un attributo o insieme di attributi che identifica in modo univoco ogni record in una tabella. Deve essere unica e non può contenere valori nulli.
+
+### Caratteristiche:
+- **Unicità**: Ogni valore deve essere unico.
+- **Non nullabilità**: Non può contenere valori nulli.
+- **Identificazione**: Garantisce che ogni record sia identificabile in modo univoco.
+
+### Vantaggi:
+- Identifica i record in modo univoco.
+- Mantiene l'integrità referenziale tra tabelle.
+
+### Svantaggi:
+- Difficile da modificare in tabelle grandi.
+
+
+
+## Tipologie di accesso
+### Accesso sequenziale
+L'**accesso sequenziale** implica che i dati vengono letti o scritti in ordine, uno dopo l'altro, come in una cassetta a nastro.
+
+#### Vantaggi
+- **Semplicità**: La gestione è semplice, dato che i dati vengono trattati in modo lineare.
+- **Efficienza**: Può essere molto veloce per operazioni su file di grandi dimensioni dove tutti i dati devono essere elaborati.
+
+#### Svantaggi
+- **Lento per accesso casuale**: Per accedere a dati specifici è necessario scorrere l'intero file fino alla posizione desiderata, il che rende lento l'accesso casuale.
+- **Limitazioni nel salto tra record**: Non è facile "saltare" direttamente a un determinato record senza attraversare quelli precedenti.
+
+### Accesso diretto
+L'**accesso diretto** permette di raggiungere qualsiasi parte del file senza dover leggere l'intero contenuto sequenzialmente. Ogni record ha un indirizzo che può essere usato per localizzare i dati.
+
+#### Vantaggi
+- **Accesso veloce**: È possibile accedere a qualsiasi record direttamente, senza dover scorrere l'intero file.
+- **Efficienza con grandi dataset**: Ideale per database e grandi quantità di dati che necessitano di frequenti letture casuali.
+
+#### Svantaggi
+- **Maggiore complessità**: Richiede una gestione più sofisticata e algoritmi complessi per mantenere la struttura degli indirizzi dei record.
+- **Spreco di spazio**: A volte, per garantire l'accesso diretto, lo spazio su disco potrebbe essere meno ottimizzato.
+
+### Accesso associativo
+L'**accesso associativo** (o accesso tramite chiave) è una modalità di accesso ai dati in cui la ricerca non avviene tramite un indirizzo fisico o logico, ma tramite una chiave o un identificatore univoco associato ai dati. Questo tipo di accesso è tipico di database o strutture dati come le tabelle hash.
+
+#### Vantaggi
+- **Ricerca rapida**: I dati vengono trovati rapidamente tramite l'uso di chiavi, senza dover scorrere sequenzialmente o accedere direttamente a un indirizzo fisico.
+- **Efficienza con grandi dataset**: Ottimo per database o archivi che devono gestire grandi quantità di dati, in quanto l'accesso ai dati avviene in base a identificatori univoci.
+- **Maggiore flessibilità**: Permette di gestire dinamicamente i dati senza bisogno di una struttura rigida come nell'accesso sequenziale o diretto.
+
+#### Svantaggi
+- **Maggiore complessità nella gestione**: La gestione di indici o tabelle hash richiede più risorse computazionali e algoritmi sofisticati.
+- **Overhead di memoria**: Le strutture dati come tabelle hash o indici richiedono spazio aggiuntivo in memoria.
+- **Possibili collisioni**: Se la chiave non è ben progettata, possono verificarsi collisioni, che devono essere gestite per garantire l'accesso corretto ai dati.
+

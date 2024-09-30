@@ -1,0 +1,25 @@
+/*
+(0,91,150)
+ 	(0,80,115)
+
+*/
+
+h1{
+    color:#009688;
+}
+
+h2{
+    color:#005073;
+}
+
+h3 {
+    color: #e8702a;
+}
+
+p:has(> img) {
+    display: flex;
+    flex-direction: column;
+}
+img{
+    margin: auto;
+}
