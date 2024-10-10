@@ -84,3 +84,4 @@ La compressione dei dati aiuta a limitare l'uso della banda di rete.
 ```http
 Content-Encoding: gzip
 ```
+

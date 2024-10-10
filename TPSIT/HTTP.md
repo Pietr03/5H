@@ -74,26 +74,113 @@ Esistono due tipi di connesione permanente:
     - **Aspetta la conferma della ricezione di una risposta** prima di inviare la risposta successiva.
 
 
+# Struttura messaggio HTTP
+Il protocollo HTTP utilizza il formato ASCII per la codifica dei testi.
+
 ## Prima riga
 Contiene la versione HTTP usata dal client oppure lo status code della response nel caso del server
 
+
+## header 
+L'header è caratterizzato dalla presenza di diversi valori rappresentati con il formato:
+```
 chiave : valore
+```
 
-header: 
+ESEMPIO:
+
+```http
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 6
+user-agent: Mozilla/5.0
+```
+**Ogni riga è un header diverso.**
+
 - user agent (indica versione browser del client)
-- host
-- mime
+- host (indica l'host del server, Es: www.google.com)
+- mime type (multipurpose internet mail extensions), è il tipo di contenuto del messaggio HTTP e indica al client come interpretare i dati ricevuti dal server. 
 
 
-CRLF (Carriage Return Line Feed)
-Carriage return, "a capo"
-line feed, "nuova riga"
+### CRLF
+A separare le righe ci sono i CRLF (Carriage Return Line Feed)
 
-metodo: get, post, put , delete
+*<strong>Carriage return</strong> ("inizio riga")*, indica al puntatore di tornare all'inizio della riga 
+<br> 
+*<strong>Line feed</strong> ("nuova riga")*, indica al puntatore di andare alla riga successiva 
 
-ESEMPIO richiesta HTTP: GET /percorso/file.html HTTP/1.1
+
+### Metodi HTTP
+Metodo: get, post, put , delete
+
+ESEMPIO richiesta HTTP GET: 
+
+```http
+GET /percorso/file.html HTTP/1.1
+```
 
 
+## Riga vuota
+È una riga usata per separare gli Header e il Body.
+
+## Body
+Corpo del messaggio contiene i dati trasportati dal client al server
+
+
+
+## Chiarimenti 
 Corpo e header sono facoltativi
 
 
+
+# Request e response
+## Request
+Una HTTP request è un messaggio testuale inviato dal client al server HTTP ed è formato da tre elementi:
+- riga di richiesta 
+- intestazione HTTP (header)
+- corpo del messaggio (body)
+
+```XML
+<Method> <URI ><Version>    <!-- riga di richiesta -->
+[Header]                    <!-- Intestazione HTTP -->
+CRLF                        <!-- Riga vuota -->
+[Body]                      <!-- Corpo del messaggio -->
+```
+
+### Esempio di richiesta HTTP
+
+## Response
+È organizzata in maniera analoga rispetto a una richiesta.
+
+Si differenzia dalla richiesta per la presenza dello stato della richiesta nella prima riga.
+Esempio :
+
+```XML
+HTTP/1.1 <Status Code> <Reason Phrase>
+[Header]                    <!-- Facoltativo-->
+CRLF                        <!-- Riga vuota -->
+[Body]                      <!-- Facoltativo -->
+```
+
+
+---
+
+# Metodi (Verbi) HTTP
+Nella comunicazione HTTP, la prima riga di intestazione di una **request** contiene un elemento chiamato metodo o verbo HTTP.
+
+I più importanti usati nelle applicazioni web con RESTFUL API sono: GET, POST, PUT, DELETE.
+
+Le API sono 
+
+Operazioni CRUD (Create, Read, Update, Delete), vengono gestite ad esempio in questo modo;
+- chiedere dati al server, il client inivia una richiesta GET ad un API di tipo READ
+- creare dati, il client invia una richiesta POST ad un API di tipo CREATE
+- modificare dati, il client invia una richiesta PUT ad un API di tipo UPDATE
+- rimuovere dati, il client invia una richiesta DELETE ad un API di tipo DELETE
+
+I codici di stato sono definiti dall'Internet Engineering Task Force (IETF)
+- 100-199 informazioni sullo stato della richiesta
+- 200- 299 successful
+- 300-399 redirection
+- 400-499 client error
+- 500-599 server error

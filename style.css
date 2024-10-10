@@ -4,12 +4,12 @@
 
 */
 
-h1{
-    color:#009688;
+h1 {
+    color: #009688;
 }
 
-h2{
-    color:#005073;
+h2 {
+    color: #005073;
 }
 
 h3 {
@@ -20,6 +20,11 @@ p:has(> img) {
     display: flex;
     flex-direction: column;
 }
-img{
+
+img {
     margin: auto;
+}
+
+.identation {
+    margin-left: 2em;
 }

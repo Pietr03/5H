@@ -25,7 +25,7 @@ Ci sono 3 differenti modelli logici:
 
 ## Modello fisico
 
-
+[Pagina editing modelli DB](https://app.diagrams.net/?src=about#G1WzwBWvY8X0pON42iIPLclcSq2dSwiEIR#{"pageId"%3A"cDxCdpYFD2NNhVUvpleY"})
 
 --- 
 
@@ -40,3 +40,48 @@ Ci sono 3 differenti modelli logici:
     - esterna
 
 - vincoli di integrità
+
+
+
+---
+
+# Schema di progettazione di un database *01/10/2024*
+## 1. Studio di fattibilità 
+## 2. Analisi dei requisiti (entità, attributi, relazioni)
+### Entità
+Sono come le classi nella programmazione ad oggetti, rappresentano una categoria di oggetti 
+Hanno proprietà comuni, hanno esistenza autonoma, sono di interesse per l'applicazione
+
+Le rappresentiamo con un rettangolo con al centro scritto il nome dell'entità stessa.
+
+### Attributi
+Sono caratterizzati da:
+- nome
+- formato (es: varchar(10))
+- dimensione
+- valore
+
+### Attributo chiave
+CHiave candidata o superchiave, un attributo o un insieme di attributo 
+
+Es di attributi:
+- nome
+- luogo di nascità
+- età
+
+
+
+## 3. Progettazione concettuale (Schema ER)
+
+Scritta in UML, organizza i dati 
+
+## 3. Progettazione Logico-fisica (schema logico)
+## 5. Implementazione del database
+## 6. Messa in opera 
+
+
+
+# Sinonimi: 
+- classe/entità
+- colonne/campi
+- righe/record 
