@@ -1,0 +1,28 @@
+{
+    "Esercizio-1": [
+        {
+            "titolo": "Interstellar",
+            "autore": "Christopher Nolan",
+            "anno": 2014,
+            "durata": 169
+        },
+        {
+            "titolo": "Inception",
+            "autore": "Christopher Nolan",
+            "anno": 2010,
+            "durata": 148
+        },
+        {
+            "titolo": "The Prestige",
+            "autore": "Christopher Nolan",
+            "anno": 2006,
+            "durata": 130
+        },
+        {
+            "titolo": "The Dark Knight",
+            "autore": "Christopher Nolan",
+            "anno": 2008,
+            "durata": 152
+        }
+    ]
+}

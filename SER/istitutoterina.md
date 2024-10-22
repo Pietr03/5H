@@ -15,11 +15,12 @@ Articoli aggiunti:
 12-10-2022: ore di lavoro 1:30
 
 
-14/10/2024
 mini-task completate:
+invertire l'orientamento menu mobile
+arricchire il footer
 
 
 Cose da vedere:
-menu da mobile è orribile
 aggiungere animazioni
-arricchire il footer
+configurare woocommerce
+controllare il funzionamento form

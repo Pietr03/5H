@@ -1,0 +1,79 @@
+{
+    "Esercizio-4": [
+        {
+            "nome": "Rebecca Caligiuri",
+            "eta": 15,
+            "interessi": [
+                "Nuoto",
+                "Viaggi",
+                "Libri"
+            ],
+            "genere": false,
+            "generi_preferiti": [
+                "Giallo",
+                "Fantascienza"
+            ],
+            "sport": true
+        },
+        {
+            "nome": "Daniele Torchia",
+            "eta": 17,
+            "interessi": [
+                "Basket",
+                "Chitarra",
+                "Serie TV"
+            ],
+            "genere": true,
+            "generi_preferiti": [
+                "Azione",
+                "Horror"
+            ],
+            "sport": false
+        },
+        {
+            "nome": "Antonio De Grazia",
+            "eta": 16,
+            "interessi": [
+                "Corsa",
+                "Teatro",
+                "Disegno"
+            ],
+            "genere": true,
+            "generi_preferiti": [
+                "Commedia",
+                "Romantico"
+            ],
+            "sport": true
+        },
+        {
+            "nome": "Salvatore Leo",
+            "eta": 17,
+            "interessi": [
+                "Pittura",
+                "Cinema",
+                "Lettura"
+            ],
+            "genere": true,
+            "generi_preferiti": [
+                "Fantascienza",
+                "Fantasy"
+            ],
+            "sport": true
+        },
+        {
+            "nome": "Carmine Grano",
+            "eta": 16,
+            "interessi": [
+                "Moto",
+                "Cucina",
+                "Cinema"
+            ],
+            "genere": true,
+            "generi_preferiti": [
+                "Azione",
+                "Horror"
+            ],
+            "sport": true
+        }
+    ]
+}

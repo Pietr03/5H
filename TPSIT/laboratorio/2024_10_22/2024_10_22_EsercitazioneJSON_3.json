@@ -1,0 +1,54 @@
+{
+    "Esercizio-3": [
+        {
+            "nome": "Rebecca Caligiuri",
+            "eta": 15,
+            "interessi": [
+                "Nuoto",
+                "Viaggi",
+                "Libri"
+            ],
+            "sport": true
+        },
+        {
+            "nome": "Daniele Torchia",
+            "eta": 17,
+            "interessi": [
+                "Basket",
+                "Chitarra",
+                "Serie TV"
+            ],
+            "sport": false
+        },
+        {
+            "nome": "Antonio De Grazia",
+            "eta": 16,
+            "interessi": [
+                "Corsa",
+                "Teatro",
+                "Disegno"
+            ],
+            "sport": true
+        },
+        {
+            "nome": "Salvatore Leo",
+            "eta": 16,
+            "interessi": [
+                "Calcio",
+                "Videogiochi",
+                "Musica"
+            ],
+            "sport": true
+        },
+        {
+            "nome": "Carmine Grano",
+            "eta": 17,
+            "interessi": [
+                "Moto",
+                "Cinema",
+                "Lettura"
+            ],
+            "sport": false
+        }
+    ]
+}

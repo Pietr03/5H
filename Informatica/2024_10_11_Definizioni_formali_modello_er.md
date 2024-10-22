@@ -38,12 +38,29 @@ t = (A1=V1, ... , An=Vn) (Assegnazioni Etichetta-Valore si fanno con =)
 Tj = (A1:T1, ... , An:Tn) (Associazioni Etichetta-Tipo si fanno con :)
 ```
 
-
+![Ennuple](./immagini/Definizioni_ennuple.png)
 
 ---
-# Def 4: 3 Tipi importanti
+# Def 4: 3 Importanti vincoli da definire
 1. Quali attributi non possono assumere un valore nullo
 2. Quali attributi sono chiavi 
 3. Quali attributi sono chiavi esterne
 
-## Un istanza r di uno schema di relazione R è valida se rispetta tutti i vincoli definiti su R.
+#### Un istanza r di uno schema di relazione R è valida se rispetta tutti i vincoli definiti su R.
+
+# Def 5: Una superchiave
+Una superchiave di uno schema di relazione è un insieme "X" di attributi tale che in ogni istanza valida dello schema di relazione.
+I valori degli attributi in X individuino univocamente una ennupla. 
+
+# Def 6: Una chiave
+Una chiave di uno schema di relazione è una superchiave minimale, nel senso che se si elimina un attributo, i rimanenti **non formano più** una superchiave.
+Un attributo che ∈ (appartiene) ad una chiave k è detto attributo primo.
+![superchiave](./immagini/Superchiave.png)
+
+# Def 7: 
+
+
+
+interità e consistenza
+ciclo di vita 
+monitoraggio e controllo

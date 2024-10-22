@@ -1,0 +1,59 @@
+{
+    "Esercizio-2": [
+        {
+            "nome": "Giuseppe Muraca",
+            "eta": 16,
+            "interessi": [
+                "Calcio",
+                "Videogiochi",
+                "Musica"
+            ],
+            "materia_preferita": "Matematica",
+            "sport": false
+        },
+        {
+            "nome": "Francesco Borrelli",
+            "eta": 17,
+            "interessi": [
+                "Pittura",
+                "Cinema",
+                "Lettura"
+            ],
+            "materia_preferita": "Storia",
+            "sport": true
+        },
+        {
+            "nome": "Davide Scalzo",
+            "eta": 16,
+            "interessi": [
+                "Danza",
+                "Fotografia",
+                "Viaggi"
+            ],
+            "materia_preferita": "Arte",
+            "sport": false
+        },
+        {
+            "nome": "Salvatore Leo",
+            "eta": 16,
+            "interessi": [
+                "Cinema",
+                "Videogiochi",
+                "Musica"
+            ],
+            "materia_preferita": "Storia",
+            "sport": true
+        },
+        {
+            "nome": "Carmine Grano",
+            "eta": 17,
+            "interessi": [
+                "Moto",
+                "Videogiochi",
+                "Musica"
+            ],
+            "materia_preferita": "Educazione fisica",
+            "sport": false
+        }
+    ]
+}
