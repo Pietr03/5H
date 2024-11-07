@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creazione di oggetti JSON con JavaScript</title>
+</head>
+
+<body>
+
+    <h1>Array di oggetti JSON </h1>
+    <br>
+    <table id="table"></table>
+
+    <script>
+        let libri = {
+            informatica: [
+                { nome: "C++", prezzo: 15.50 },
+                { nome: "Java", prezzo: 20.50 },
+                { nome: "Python", prezzo: 12.50 }
+            ],
+            storia: [
+                { nome: "Belle Epoque", prezzo: 15.50 },
+                { nome: "Prima guerra mondiale", prezzo: 20.50 },
+            ]
+        }
+
+        function createHTMLTable(libri) {
+            let table = "<tr><th>Libro</th><th>Prezzo</th></tr>";
+            libri.forEach(materia => {
+                table += materia //riga non finita
+            });
+
+            for (let i = 0; i < libri.informatica.length; i++) {
+                table += "<tr><td>" + libri.informatica[i].nome + "</td><td>" + libri.informatica[i].prezzo + "</td></tr>";
+            }
+            for (let i = 0; i < libri.storia.length; i++) {
+                table += "<tr><td>" + libri.storia[i].nome + "</td><td>" + libri.storia[i].prezzo + "</td></tr>";
+            }
+            return table;
+        }
+
+        document.getElementById("table").innerHTML = createHTMLTable(libri);
+    </script>
+</body>
+
+</html>

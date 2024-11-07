@@ -61,6 +61,18 @@ Un attributo che ∈ (appartiene) ad una chiave k è detto attributo primo.
 
 
 
-interità e consistenza
-ciclo di vita 
-monitoraggio e controllo
+## interità e consistenza
+
+Integrità: quando la transazione eseguita non compromette il dato, nel senso che non viola i vincoli dello schema relazione
+
+consistenza: quando il dato è valido, ovvero che il suo valore corrisponde alla realtà 
+
+
+## ciclo di vita 
+- Trovare i bisogni degli utenti
+- identificare i requisiti 
+- progettazione concettuale
+- realizzazione del sistema logico e fisico
+
+
+monitoraggio e controllo 

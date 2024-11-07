@@ -24,3 +24,21 @@ Cose da vedere:
 aggiungere animazioni
 configurare woocommerce
 controllare il funzionamento form
+
+
+corsi con immagini:
+- Digital Competence
+- Dattilografia
+- Alfabetizzazione su informazioni e dati
+--- 
+Cose fatte: aggiornare prezzo e aggiungere immagine
+- Comunicazione e collaborazione
+- Creazione di contenuti digitali
+- Risolvere problemi
+- Sicurezza
+- Neuromarketing e Psicologia per vendere online
+- Corso per tecnico del comportamento RBT
+
+
+Cosri IdCert assenti:
+- LIM
