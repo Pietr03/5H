@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <piatto>
+        <nome>
+            Pasta con la zucca 
+        </nome>
+        <categoria>
+            Primo
+        </categoria>
+        <prezzo>
+            10€
+        </prezzo>
+    </piatto>
+    <piatto>
+        <nome>
+            Salmone croccante
+        </nome>
+        <categoria>
+            Secondo
+        </categoria>
+        <prezzo>
+            20e
+        </prezzo>
+    </piatto>
+</menu>

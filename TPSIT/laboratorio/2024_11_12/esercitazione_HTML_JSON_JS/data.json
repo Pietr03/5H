@@ -1,0 +1,11 @@
+{
+    "classi": [
+        {
+            "5H": {
+                "N.Studenti": 12,
+                "N.Materie": 10,
+                "indirizzo_studio": "informatica"
+            }
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libro>
+    <titolo>
+        Il signore degli anelli
+    </titolo>
+    <autore>
+        John Ronald Reuel Tolkien
+    </autore>
+    <anno>
+        2002
+    </anno>
+    <prezzo>
+        20€
+    </prezzo>
+</libro>

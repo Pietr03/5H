@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<studenti>
+    <studente>
+        <nome>Pietro Salvatore</nome>
+        <cognome>Colosimo</cognome>
+        <età>18</età>
+        <voto>10</voto>
+    </studente>
+    <studente>
+        <nome>Giuseppe </nome>
+        <cognome>Murata</cognome>
+        <età>18</età>
+        <voto>10-</voto>
+    </studente>
+    <studente>
+        <nome>Francesco</nome>
+        <cognome>Borreli</cognome>
+        <età>18</età>
+        <voto>6,5</voto>
+    </studente>
+</studenti>
