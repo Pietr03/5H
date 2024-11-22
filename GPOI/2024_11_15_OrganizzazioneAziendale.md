@@ -53,6 +53,8 @@ I meccanismi ex-ante sono:
 -   Standardizzazione dei competenze:
     -   Consiste nell'assicurarsi che gli operatori siano in grado di svolgere i compiti assegnati e interagire sulla base delle competenze acquisite in precedenza.
 
+---
+
 ## Parametri della microstruttura aziendale
 
 ### Posizione individuale
@@ -70,3 +72,21 @@ Insieme dei compiti che vengono attribuiti ad un individuo.
 ### Compito
 
 Insieme di attività collegate tra loro in relazione del lavoro dell'individuo e della tecnologia.
+
+---
+
+## Forme organizzative
+
+Le forme organizzative sono definite come una macro struttura che comprende l'unione di individui o operatori che rispondono ad un unico capo, lo strumento utilizzato per rappresentare le forme organizzative è l'organigramma.
+
+-   La prima forma organizzativa è la **struttura funzionale**, caratterizzata dalla divisione del lavoro per specializzazioni tecniche.
+
+    -   **Vantaggio**: aumento dell'efficienza operativa
+    -   **Svantaggio**: problemi dovuti alla comunicazione e coordinamento tra le varie funzioni.
+
+-   La seconda forma organizzativa è la **struttura divisionale**, basata sulla specializzazione per prodotto o servizio, per mercati, per aree geografiche, per clienti o per la combinazione di questi elementi.
+
+    -   **Vantaggio**: riduce la complessità organizzativa, grazie alla creazione di unità semi-autonome.
+
+-   La terza forma organizzativa sono le **strutture a matrice**, è una combinazione tra struttura funzionale e divisionale, utile per le organizzazioni miste.
+    Questa forma organizzativa crea una duplice dipendenza gerarchica, ovvero, le persone che vengono assegnate ai vari progetti, dipendono sia dal **project manager**, sia dal **responsabile** alla funzione a cui appartiene, la struttura a matrice viene utilizzata per i progetti. (Progetto: attività unica e non ripetitiva).

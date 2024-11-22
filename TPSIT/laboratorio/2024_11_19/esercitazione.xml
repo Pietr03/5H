@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<articolo titolo="Esercitazione TPSIT">
+    <paragrafo titolo="Quesito">
+        <testo>
+            Ricrea la seguente struttura XML
+        </testo>
+        <immagine>
+            https://lh3.googleusercontent.com/drive-storage/AJQWtBPhgflfcW0hQwHTPKSC2JmA1PqEdbbKxUuXr2mLK_OjrTDxD35-A-b9KHvFNkR-zXg_FmzVdk1QSrFliG6_CvQB6Gxnf7Q-khKO4AGDUnljoA=w908-h1000
+        </immagine>
+    </paragrafo>
+    <paragrafo titolo="Argomento a piacere">
+        <testo>
+            Mi piace l'informatica
+        </testo>
+        <codice>
+            console.log("Ciao mondo")
+        </codice>
+    </paragrafo>
+    <paragrafo tipo="testo">
+        <testo>
+            Il cielo è nuvoloso
+        </testo>
+    </paragrafo>
+</libro>
