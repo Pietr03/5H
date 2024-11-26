@@ -1,0 +1,34 @@
+{
+    "classi": [
+        {
+            "classe": "5H",
+            "n_studenti": 12,
+            "n_materie": 10,
+            "indirizzo_studio": "Informatica"
+        },
+        {
+            "classe": "4E",
+            "n_studenti": 18,
+            "n_materie": 10,
+            "indirizzo_studio": "Meccanica"
+        },
+        {
+            "classe": "3E",
+            "n_studenti": 15,
+            "n_materie": 12,
+            "indirizzo_studio": "Agrario"
+        },
+        {
+            "classe": "2E",
+            "n_studenti": 15,
+            "n_materie": 11,
+            "indirizzo_studio": "Odontotecnico"
+        },
+        {
+            "classe": "1E",
+            "n_studenti": 15,
+            "n_materie": 11,
+            "indirizzo_studio": "Informatica"
+        }
+    ]
+}

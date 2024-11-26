@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+        <script src="leggiScuola01.js"></script>
+        <style>
+            body {
+                height: 100vh;
+                width: 100vw;
+                display: flex;
+                justify-content: center;
+                overflow: hidden;
+            }
+            table,
+            table * {
+                border: 1px solid black;
+                border-collapse: collapse;
+                padding: 8px;
+                text-align: center;
+                height: fit-content;
+            }
+
+            table {
+                margin: auto 0px;
+            }
+            table thead tr {
+                background-color: cadetblue;
+            }
+            table tbody tr:nth-child(odd) {
+                background-color: lightblue;
+            }
+        </style>
+    </head>
+    <body>
+        <table id="dati"></table>
+    </body>
+</html>
