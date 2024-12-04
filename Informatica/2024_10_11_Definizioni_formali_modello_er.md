@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../style.css">
+
 Tabella = schema relazione (insieme di tuple)
 
 DB = schema relazionale (insieme di tabelle o schemi relazione)
