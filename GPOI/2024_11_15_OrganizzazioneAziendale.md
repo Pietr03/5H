@@ -50,7 +50,7 @@ I meccanismi ex-ante sono:
     -   Gli operatori sono coordinati affinché svolgano un'operazione seguendo tutti la stessa procedura. Es: McDonald's, dove tutti devono saper fare tutto.
 -   Standardizzazione dei risultati:
     -   Rispetto del budget stabilito dall'azienda, ovvero si stabilisce la quantità da produrre (budget della produzione) oppure dalla quantità da vendere (budget delle vendite).
--   Standardizzazione dei competenze:
+-   Standardizzazione delle competenze:
     -   Consiste nell'assicurarsi che gli operatori siano in grado di svolgere i compiti assegnati e interagire sulla base delle competenze acquisite in precedenza.
 
 ---

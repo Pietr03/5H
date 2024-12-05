@@ -82,7 +82,7 @@ Le architetture client-server sono solitamente organizzate in 3 livelli o strati
 
 ## Presentation layer (frontend)
 
-Si occupa, attraverso procedure e moduli. di mostrare all'utente le pagine HTML, i contenuti ricavati dal server e di comunicare con quest'ultimo, ad esempio attravero i form.
+Si occupa, attraverso procedure e moduli. di mostrare all'utente le pagine HTML, i contenuti ricavati dal server e di comunicare con quest'ultimo, ad esempio attraverso i form.
 
 ## Resource Management Layer (RML) / Data Access Layer (DAL)
 
