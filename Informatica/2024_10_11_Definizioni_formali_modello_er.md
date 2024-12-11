@@ -92,4 +92,4 @@ monitoraggio e controllo
 
 # Def 8: Chiave esterna
 
-Un insieme di attrivuti A1, ..., An di uno schema di relazione B è una chiave esterna, che riferisce una chiave primaria B1, ..., Bn, di uno schema di relazione S, se in ogni istanza valida della base di dati,, per ogni ennupla t, dell'istanta di R esiste un'ennupla t, "diferita da tr", ovvero tale che, per ogni i appartenente a 1...n, tr.Ai=Ts.Bi, dove t.A indica il valore dell'attributo A dell'ennupla t.
+Un insieme di attributi A1, ..., An di uno schema di relazione B è una chiave esterna, che riferisce una chiave primaria B1, ..., Bn, di uno schema di relazione S, se in ogni istanza valida della base di dati,, per ogni ennupla t, dell'istanta di R esiste un'ennupla t, "diferita da tr", ovvero tale che, per ogni i appartenente a 1...n, tr.Ai=Ts.Bi, dove t.A indica il valore dell'attributo A dell'ennupla t.
