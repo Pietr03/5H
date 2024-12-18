@@ -143,8 +143,6 @@ N:N
 
 È un insieme di operazioni matematiche
 
-# SQL
-
 # Tupla
 
 La tupla è una collezione di dati non per forza omogenei tra loro.
