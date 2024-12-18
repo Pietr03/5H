@@ -14,7 +14,8 @@ Ci sono 2 tipi di clienti: interni ed esterni:
 Le attività del processo aziendale sono legate tra di loro attraverso delle interdipendenze, quali:
 
 -   sequenziali, quando una fase produce un output, intermedio che rappresenta un input per un'altra fase a valle
--   reciproche , se due fasi producono output che costituiscono input reciprocamente e generiche, quando due fasi interagiscono poiché condividono le stesse risorse
+-   reciproche , se due fasi producono output che costituiscono input reciprocamente
+-   generiche, quando due fasi interagiscono poiché condividono le stesse risorse
 
 ---
 

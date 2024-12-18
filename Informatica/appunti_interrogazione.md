@@ -4,7 +4,7 @@
 
 -   chi progetta i DBMS
 -   chi li installa e mantiene performanti e sicuri
--   chi progetta il DB
+-   chi progetta il DB, che gira sul DBMS
 -   chi usa il DB per il programma che sta sviluppando
 -   chi fa uso (come utente non programmatore) di software che si affidano ai DBMS
 
@@ -95,10 +95,9 @@ Una superchiave si dice minimale se per esprimere il suo valore non possono esse
 -   è un identificatore univoco per l'n-upla
 -   negli schemi di relazione del modello logico, si identificano con una sottolineatura
 
-## Ennupla
+## N-upla
 
-Un ennupla
-**t = ( $A_{1}$ = $V_{1}$, ... , $A_{n}$ = $V_{n}$ )**, di tipo **$T_{j}$ = ($A_{1} : T_{1}$, ..., $A_{n} : T_{n}$)** è un insieme di coppie ($A_{i}$, $V_{i}$), con $V_{i}$ di tipo $T_{i}$
+Un n-upla **$t =$ ( $A_{1}$ = $V_{1}$, ... , $A_{n}$ = $V_{n}$ )**, di tipo **$T_{j}$ = ($A_{1} : T_{1}$, ..., $A_{n} : T_{n}$)** è un insieme di coppie ($A_{i}$, $V_{i}$), con $V_{i}$ di tipo $T_{i}$
 
 `La cardinalità di uno schema di relazione è il suo numero di ennuple`
 
@@ -113,3 +112,43 @@ Un ennupla
 ---
 
 # Transazione
+
+È una sequenza di operazioni che vengono eseguite in successione.
+
+---
+
+# Tracciato dei record
+
+È l'insieme degli attributi della relazione che definisce il record
+
+# DBMS
+
+È un software che permette la gestione, manipolazione, interrogazione di un DB, in modo efficente, garantendo la sicurezza e integrità dei dati
+
+# Schema ER
+
+È un modello concettuale espresso in modo grafico per definire i dati e le loro relazioni, usando lo schema ER.
+
+# Schema Logico
+
+È il modello più dettagliato e vicino alla struttura fisica del DB, composto da relazioni
+
+# Le cardinalità
+
+1:1
+1:N
+N:N
+
+# Algebra relazionale
+
+È un insieme di operazioni matematiche
+
+# SQL
+
+# Tupla
+
+La tupla è una collezione di dati non per forza omogenei tra loro.
+
+## N-upla
+
+È una generalizzazione della tupla, che è composta da n elementi, dove n è un numero intero, non negativo
