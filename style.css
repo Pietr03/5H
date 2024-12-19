@@ -3,7 +3,11 @@
  	(0,80,115)
 
 */
-
+body,
+* {
+    color: white;
+    background-color: #1a1a1a; /*003d47*/
+}
 h1 {
     color: #009688;
 }
