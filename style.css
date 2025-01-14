@@ -3,21 +3,37 @@
  	(0,80,115)
 
 */
+:root {
+    --background-color: #fff;
+    --primary-color: #009688;
+    --secondary-color: #005073;
+    --tertiary-color: #e8702a;
+    --quarternary-color: #1a1a1a;
+}
+
+:root:has(#tema-scuro:checked) {
+    --background-color: #1a1a1a;
+    --primary-color: #009688;
+    --secondary-color: #005073;
+    --tertiary-color: #e8702a;
+    --quarternary-color: #f5f5f5;
+}
+
 body,
 * {
-    color: white;
-    background-color: #1a1a1a; /*003d47*/
+    color: var(--quarternary-color);
+    background-color: var(--background-color); /*003d47*/
 }
 h1 {
-    color: #009688;
+    color: var(--primary-color);
 }
 
 h2 {
-    color: #005073;
+    color: var(--secondary-color);
 }
 
 h3 {
-    color: #e8702a;
+    color: var(--tertiary-color);
 }
 
 p:has(> img) {

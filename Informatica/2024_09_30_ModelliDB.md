@@ -1,5 +1,8 @@
 <link rel="stylesheet" href="../style.css">
 
+<label for="tema">Tema scuro</label>
+<input type="checkbox" id="tema-scuro"></input>
+
 _pag 29 libro_
 
 Con i DB modelliamo la realtà che ci circonta

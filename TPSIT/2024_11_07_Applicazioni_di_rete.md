@@ -1,5 +1,8 @@
 <link rel="stylesheet" href="../style.css">
 
+<label for="tema">Tema scuro</label>
+<input type="checkbox" id="tema-scuro"></input>
+
 # Il modello ISO/OSI e le applicazioni
 
 Nel modello ISO/OSI e TCP il livello delle applicazioni si occupa di implementare le applicazioni di rete che vengono utilizzate dall'utente finale.

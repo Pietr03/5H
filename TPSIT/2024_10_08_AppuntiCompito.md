@@ -1,3 +1,8 @@
+<link rel="stylesheet" href="../style.css">
+
+<label for="tema">Tema scuro</label>
+<input type="checkbox" id="tema-scuro"></input>
+
 # HTTP e il modello Client/Server
 
 La versione **2.0** introduce diverse funzionalità innovative:

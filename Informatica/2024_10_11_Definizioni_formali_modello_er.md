@@ -1,5 +1,8 @@
 <link rel="stylesheet" href="../style.css">
 
+<label for="tema">Tema scuro</label>
+<input type="checkbox" id="tema-scuro"></input>
+
 Tabella = schema relazione (insieme di tuple)
 
 DB = schema relazionale (insieme di tabelle o schemi relazione)

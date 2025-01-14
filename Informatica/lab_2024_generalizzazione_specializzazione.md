@@ -1,5 +1,8 @@
 <link rel="stylesheet" href="../style.css">
 
+<label for="tema">Tema scuro</label>
+<input type="checkbox" id="tema-scuro"></input>
+
 ![Schema 15/10/2024](./immagini/2024_10_15_schemaER.png)
 
 # Generalizzazione

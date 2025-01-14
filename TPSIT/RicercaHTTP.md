@@ -1,3 +1,8 @@
+<link rel="stylesheet" href="../style.css">
+
+<label for="tema">Tema scuro</label>
+<input type="checkbox" id="tema-scuro"></input>
+
 # HEADERS RESPONSE HTTP
 
 Questi header sono fondamentali per il funzionamento del protocollo HTTP, poiché consentono la gestione ottimale delle risorse e la comunicazione efficace tra client e server.

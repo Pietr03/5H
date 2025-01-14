@@ -1,5 +1,8 @@
 <link rel="stylesheet" href="../style.css">
 
+<label for="tema">Tema scuro</label>
+<input type="checkbox" id="tema-scuro"></input>
+
 # Utenti DBMS:
 
 -   chi progetta i DBMS

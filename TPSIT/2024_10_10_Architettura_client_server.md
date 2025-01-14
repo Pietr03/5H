@@ -1,5 +1,8 @@
 <link rel="stylesheet" href="../style.css">
 
+<label for="tema">Tema scuro</label>
+<input type="checkbox" id="tema-scuro"></input>
+
 # Tecnologie del web
 
 Possiamo distinguere le tecnologie del We in **due gruppi**, in base al posto in cui avvengono le eleaborazioni.
