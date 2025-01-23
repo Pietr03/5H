@@ -1,7 +1,8 @@
 <link rel="stylesheet" href="../style.css">
 
-<label for="tema">Tema scuro</label>
-<input type="checkbox" id="tema-scuro"></input>
+<label style="" for="tema-scuro">Tema scuro
+    <input type="checkbox" id="tema-scuro"></input>
+</label>
 
 _pag 29 libro_
 

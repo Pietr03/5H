@@ -1,7 +1,8 @@
 <link rel="stylesheet" href="../style.css">
 
-<label for="tema">Tema scuro</label>
-<input type="checkbox" id="tema-scuro"></input>
+<label style="" for="tema-scuro">Tema scuro
+    <input type="checkbox" id="tema-scuro"></input>
+</label>
 
 vpn
 
@@ -99,3 +100,17 @@ nc -nvlp 8888
 ## Cos'è sqlmap
 
 ## Cos'è sqlinjection
+
+```bash
+john --wordlist=wordlist.txt hashfile.txt
+```
+```bash
+hashcat -m 0 -a 0 hash.txt wordlist.txt
+```
+
+```fish
+echo -n "password" | md5sum
+```
+```fish
+echo -n "password" | sha256sum
+```

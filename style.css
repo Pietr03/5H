@@ -5,6 +5,7 @@
 */
 :root {
     --background-color: #fff;
+    --secondary-background-color: white;
     --primary-color: #009688;
     --secondary-color: #005073;
     --tertiary-color: #e8702a;
@@ -13,6 +14,8 @@
 
 :root:has(#tema-scuro:checked) {
     --background-color: #1a1a1a;
+    --secondary-background-color: #009688;
+
     --primary-color: #009688;
     --secondary-color: #005073;
     --tertiary-color: #e8702a;
@@ -47,4 +50,16 @@ img {
 
 .identation {
     margin-left: 2em;
+}
+
+
+label {
+    font-weight: bold;
+    padding: 6px 8px; 
+    background:var(--primary-color); 
+    width: fit-content; 
+    border-radius:8px; 
+    display: flex; 
+    gap:5px; 
+    border: 1px solid var(--primary-color);
 }
