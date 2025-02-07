@@ -1,5 +1,9 @@
 <link rel="stylesheet" href="../style.css">
 
+<label style="" for="tema-scuro">Tema scuro
+    <input type="checkbox" id="tema-scuro"></input>
+</label>
+
 Mi sono perso le pagine 18, 21, 22, 24, 25, 26, 27, 29, 30, 31(tranne esempio grafico), 32 e 33( le forme di mercato)
 
 l'equilibrio del consumatore

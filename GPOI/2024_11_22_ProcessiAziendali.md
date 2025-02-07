@@ -1,5 +1,9 @@
 <link rel="stylesheet" href="../style.css">
 
+<label style="" for="tema-scuro">Tema scuro
+    <input type="checkbox" id="tema-scuro"></input>
+</label>
+
 # Processo aziendale
 
 Un processo aziendale è un processo organizzato di attività e di decisioni con l'obiettivo di raggiungere un risultato.

@@ -1,5 +1,9 @@
 <link rel="stylesheet" href="../style.css">
 
+<label style="" for="tema-scuro">Tema scuro
+    <input type="checkbox" id="tema-scuro"></input>
+</label>
+
 # Organizzazione aziendale
 
 L'organizzazione è caratterizzata da un gruppo di individui o persone che lavorano in sinergia per ragiungere un obiettivo comune ogni individio o persona deve essere specializzato, per questo parliamo di specializzazione nel lavoro che ci dice chi fa che cosa, la specializzazione del lavoro

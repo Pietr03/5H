@@ -1,3 +1,8 @@
+<link rel="stylesheet" href="../style.css">
+
+<label style="" for="tema-scuro">Tema scuro
+    <input type="checkbox" id="tema-scuro"></input>
+</label>
 # Calcolo dell'integrale definito con il metodo Montecarlo
 
 ## 1. Definizione di integrale definito

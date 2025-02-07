@@ -4,3 +4,8 @@ CREATE TABLE Nazioni(
     nome_nazione VARCHAR(15) 
 )
 ```
+
+
+```sql
+
+```
