@@ -11,7 +11,7 @@ La città portuale di Trieste gli permette di conoscere diverse culture, in ques
 #### Quali sono e quando furono pubblicate le sue opere più importanti
 
 - **Una vita** - 1892 (l'inetto si suicida)
-- **Senilità** - 1898 (l'inetto si auto isola)costo di attivazione o migrazione · Esci quando vuoi con 20,00 €
+- **Senilità** - 1898 (l'inetto si auto isola)
 - **La coscienza di Zeno** - 1923 (l'inetto si fa esaminare da uno psicoanalista, guarisce e abbandona le sedute)
 - **Il vegliardo** - _(INCOMPLETO)_ (è una continuazione della Coscienza di Zeno)
 
@@ -58,9 +58,8 @@ Italo Svevo pubblica a sue spese due opere:
 
 Entrambe le opere non fecero successo, e nemmeno i critici si degnarono di parlarne.
 Tra le cause possiamo identificare la sua mancanza di correttezza grammaticale italiana, infatti lui a lavoro parlava tedesco e a casa il dialetto triestino, dunque sembra provare a parlare in italiano con frasi costruite con strutture tedesche.
-Il suo linguaggio faceva spesso richiami al campo burocratico.
 
-#### Il contento
+Il suo linguaggio faceva spesso richiami al campo burocratico.
 
 ### La coscienza di Zeno
 
