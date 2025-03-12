@@ -13,7 +13,7 @@
 }
 
 :root:has(#tema-scuro:checked) {
-    --background-color: #1a1a1a;
+    --background-color: #0d1117; /*#1a1a1a;*/
     --secondary-background-color: #009688;
 
     --primary-color: #009688;

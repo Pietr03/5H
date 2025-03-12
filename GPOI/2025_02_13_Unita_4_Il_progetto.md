@@ -86,7 +86,7 @@ Misurano la qualità, i costi e il tempo relativi al progetto.
 Sono importanti per:
 
 - **anticipazione dei vincoli**, si verifica la fattibilità e la coerenza tra output, vincoli e obiettivi specifici,
-- **controllo del progetto**, in ogni fase, lo stato di avanzamento deve essere confrontato con oviettivi specifici da raggiungere al termine del progetto, verificando cosa rimane da fare e organizzarsi in anticipo,
+- **controllo del progetto**, in ogni fase, lo stato di avanzamento deve essere confrontato con obiettivi specifici da raggiungere al termine del progetto, verificando cosa rimane da fare e organizzarsi in anticipo,
 - **adozione di meccanismi di delega**,la definizione di obiettivi specifici per sua natura delinea aree di competenza e responsabilità.
 
 ## La gestione delle risorse umane
@@ -108,12 +108,12 @@ I **conflitti** si creano a causa:
 
 #### Conseguenze dei conflitti
 
-Il conflitto costituisce una parte essenciale del progetto, in quanto:
+Il conflitto costituisce una parte essenziale del progetto, in quanto:
 
 - da un lato assicura il confronto e lo stimolo alla risoluzione dei problemi,
 - dall'altro può indicare un interesse verso il successo del progetto,
 
-#### Come festire i conflitti
+#### Come gestire i conflitti
 
 Di fronte a un conflitto possono generarsi svariate dinamiche ed essere messe in atto diverse modalità di gestione, quali:
 
@@ -143,7 +143,7 @@ Di fronte a un conflitto possono generarsi svariate dinamiche ed essere messe in
 - terza parte o vittoria di una parte
 - decisione di ignorarsi nel momento di disaccordo
 
-#### il dopo conflitto
+#### Il dopo conflitto
 
 - armonia
 - rancore
@@ -154,14 +154,14 @@ Uno strumento per ridurre i conflitti è rappresentato dalla **matrice delle res
 | --------------------------- | ------------------------------------------------------------------------ |
 | Responsabilità generale     | Direzione da parte di coloro a cui sono state delegare le responsabilità |
 | Responsabilità operativa    | Adempimenti organizzativo-gestionali su delega                           |
-| Responsabilità specifica    | Compiti legati all'assolbimento di attiità                               |
+| Responsabilità specifica    | Compiti legati all'assorbimento di attività                               |
 | Responsabilità necessaria   | Per poter prendere decisioni rilevanti in quella fase                    |
 | Responsabilità possibile    | Non obbligatoria                                                         |
 | Responsabilità obbligatoria | Alla persona specifica                                                   |
-| Responsabilità necessaria   | da parte della persona coinvolta                                         |
+| Responsabilità necessaria   | Da parte della persona coinvolta                                         |
 
 ## Gruppo di lavoro
-Il gruppo di lavoro che si dedica a un determinato progetto si forma nelle gasi iniziali.
+Il gruppo di lavoro che si dedica a un determinato progetto si forma nelle fasi iniziali.
 
 È definito come un insieme di persone:
 - interdipendenti
@@ -174,9 +174,15 @@ Il gruppo di lavoro che si dedica a un determinato progetto si forma nelle gasi 
 Poiche i componenti del gruppo provengono da differenti funzioni aziendali, questa eterogeità può essere considerata uno dei punti di forza e di ricchezza potenziale di un team.
 
 I principali fattori che caratterizzano un gruppo di lavoro sono:
-- **obiettivi**: chiari e condivisi, descritti in termini di risultati e adeguati alle risorse e alle potenzialitò del gruppo.
+- **obiettivi**: chiari e condivisi, descritti in termini di risultati e adeguati alle risorse e alle potenzialità del gruppo.
 - **metodi**: che valorizzano
+
+
+---
+
 **da ricopiare** 
+
+---
 
 ### Il forming
 

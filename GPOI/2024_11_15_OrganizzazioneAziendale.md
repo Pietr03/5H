@@ -94,3 +94,5 @@ Le forme organizzative sono definite come una macro struttura che comprende l'un
 
 -   La terza forma organizzativa sono le **strutture a matrice (o a progetti)** , è una combinazione tra struttura funzionale e divisionale, utile per le organizzazioni miste.
     Questa forma organizzativa crea una duplice dipendenza gerarchica, ovvero, le persone che vengono assegnate ai vari progetti, dipendono sia dal **project manager**, sia dal **responsabile** alla funzione a cui appartiene, la struttura a matrice viene utilizzata per i progetti. (Progetto: attività unica e non ripetitiva).
+
+ 

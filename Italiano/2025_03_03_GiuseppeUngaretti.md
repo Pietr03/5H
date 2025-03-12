@@ -34,3 +34,19 @@ Torna in Italia (1942), viene eletto professore di letteratura italiana all'Univ
 Durante questi anni muoiono il fratello e il figlio Antonietto.
 
 Pubblica "Il dolore" (1947), traduce opere di Shakespeare, Blake, Racine, Gòngora, Mallarmè.
+
+---
+
+
+## In memoria Pag. 649
+### In memoria
+#### Ungaretti intitola questa poesia "In memoria". Perché il poeta sceglie questo titolo? Quale funzione della poesia esso mette in evidenza?
+
+Ungaretti sceglie questo titolo perché qui parla del suo amico morto suicida. La poesia server per permettere al mondo di conoscere e ricordare l'esistenza di quest'uomo.
+
+### « Suicida / perché non aveva più / Patria »
+#### Moammed Sceab muore suicida. Quali vicende biografiche hanno condotto il protagonista a questo gesto disperato? 
+Moammed muore suicida, dopo che ha abbandonato il suo vecchio nome e le sue usanze e il Corano, per provare ad integrarsi in Francia, ma non ci riuscì.
+
+## Veglia Pag. 667
+### Una « Veglia »
