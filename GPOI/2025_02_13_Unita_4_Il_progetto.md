@@ -154,16 +154,18 @@ Uno strumento per ridurre i conflitti è rappresentato dalla **matrice delle res
 | --------------------------- | ------------------------------------------------------------------------ |
 | Responsabilità generale     | Direzione da parte di coloro a cui sono state delegare le responsabilità |
 | Responsabilità operativa    | Adempimenti organizzativo-gestionali su delega                           |
-| Responsabilità specifica    | Compiti legati all'assorbimento di attività                               |
+| Responsabilità specifica    | Compiti legati all'assorbimento di attività                              |
 | Responsabilità necessaria   | Per poter prendere decisioni rilevanti in quella fase                    |
 | Responsabilità possibile    | Non obbligatoria                                                         |
 | Responsabilità obbligatoria | Alla persona specifica                                                   |
 | Responsabilità necessaria   | Da parte della persona coinvolta                                         |
 
 ## Gruppo di lavoro
+
 Il gruppo di lavoro che si dedica a un determinato progetto si forma nelle fasi iniziali.
 
 È definito come un insieme di persone:
+
 - interdipendenti
 - interagenti in un certo periodo di tempo e in un dato spazio
 - legate da un senso di appartenenza
@@ -171,16 +173,16 @@ Il gruppo di lavoro che si dedica a un determinato progetto si forma nelle fasi 
 - impegnate a raggiungere obiettivi scelti e assegnati
 - motivate da interessi professionali e aziendali
 - il team, definito **staffing**, rappresenta un fattore critico di successo del progetto
-Poiche i componenti del gruppo provengono da differenti funzioni aziendali, questa eterogeità può essere considerata uno dei punti di forza e di ricchezza potenziale di un team.
+  Poiche i componenti del gruppo provengono da differenti funzioni aziendali, questa eterogeità può essere considerata uno dei punti di forza e di ricchezza potenziale di un team.
 
 I principali fattori che caratterizzano un gruppo di lavoro sono:
+
 - **obiettivi**: chiari e condivisi, descritti in termini di risultati e adeguati alle risorse e alle potenzialità del gruppo.
 - **metodi**: che valorizzano
 
-
 ---
 
-**da ricopiare** 
+**da ricopiare**
 
 ---
 
