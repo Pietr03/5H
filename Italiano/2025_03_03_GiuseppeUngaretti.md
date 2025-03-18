@@ -37,6 +37,18 @@ Pubblica "Il dolore" (1947), traduce opere di Shakespeare, Blake, Racine, Gòngo
 
 ---
 
+### In Francia 
+
+Conosce Marinetti, colui che scrisse il **manifesto del futurismo.
+
+
+---
+
+
+## Attualità di Ungaretti
+
+
+---
 
 ## In memoria Pag. 649
 ### In memoria
@@ -50,3 +62,35 @@ Moammed muore suicida, dopo che ha abbandonato il suo vecchio nome e le sue usan
 
 ## Veglia Pag. 667
 ### Una « Veglia »
+
+
+
+## Porto Sepolto
+La prefazione è scritta da Benito Mussolini
+Ad Alessandria d'Egitto si vocifera di un porto che è stato "sepolto" e non è stato più riportato alla luce.
+
+## Sentimento del tempo
+Sente l'influenza di Petrarca e Leopardi (che studia in Francia).
+
+## Il dolore
+
+
+
+# Pag 677
+### In che modo si realizza l'attualità di ungaretti?
+Con opere come **L'Allegria**, utilizza un linguaggio diverso, più diretto, franto e antiletterario, grazie all'influenza del futurismo.
+
+
+
+# Pag 679
+## Esercizi n.1-4
+### 1
+1. **Egitto -> Francia (1912)**: si trasferisce a Parigi per studiare Filosofia e per la sua ragazza.
+2. **Francia -> Italia (1913)**: torna per lavorare come insegnante e laurearsi in letteratura francese.
+3. **Italia -> Fronte di guerra (1915)**: parte volontario come soldato semplice nella Prima Guerra Mondiale.
+4. **Italia -> Parigi (1918-1921)**: si trasferisce dopo la guerra, sposa Jeanne Dupoix.
+5. **Parigi -> Roma (1921)**: lavora come giornalista alla Gazzetta del Popolo.
+6. **Roma -> Brasile (1936)**: insegna letteratura italiana all’Università di San Paolo.
+7. **Brasile -> Italia (1942)**: torna per diventare professore all’Università di Roma.
+   
+
