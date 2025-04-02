@@ -16,7 +16,6 @@ CREATE TABLE Dipartimenti (
 )
 ```
 
-
 ```SQL
 CREATE TABLE Impiegati(
   id_impiegato INTEGER AUTO_INCREMENT PRIMARY KEY,
