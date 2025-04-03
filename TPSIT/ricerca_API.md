@@ -32,7 +32,7 @@ Facilitano lo scambio di dati e funzionalità tra sistemi diversi, garantendo in
   - `GET`, i parametri sono passati in URL, serve per ottenere dati dal server
   - `POST`, i parametri sono passati nel corpo della richiesta _(il che la rende più sicura della GET)_, serve per inviare dati da caricare sul server
   - `PUT`, i parametri sono passati nel corpo della richiesta, serve per aggiornare dati sul server
-  - `DELETE`, i parametri sono passati nel corpo della richiesta, serve per eliminare dati sul server
+  - `DELETE`, i parametri sono passati nell'URL
 - **Formato dati:** Principalmente JSON (ma anche XML).
 
 ## SOAP (Simple Object Access Protocol)
