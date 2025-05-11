@@ -69,3 +69,6 @@ table, table * {
     border: 1px solid black !important;
 }
 
+pre {
+    background: white;
+}

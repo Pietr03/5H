@@ -1,3 +1,9 @@
+<link rel="stylesheet" href="../style.css">
+
+<label style="position:static;" for="tema-scuro">Tema scuro
+<input type="checkbox" id="tema-scuro"></input>
+</label>
+
 # Primo Levi
 Tema dell'antisemitismo nei confronti degli ebrei
 

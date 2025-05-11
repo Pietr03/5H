@@ -5,14 +5,16 @@
 </label>
 
 
-# Autori importanti
-## Pirandello
-## Italo Svevo
-## Giuseppe Ungaretti
-## Salvatore Quasimodo
-## Primo Levi
-
 ## Eugenio Montale
+La poetica
+l'ermetismo
+correlativo oggettivo
+le raccolte importanti
+Ossi di seppia
+
+
+
+
 ### Pag 726 domande
 #### In quante fasi si può dividere l'attività di Montale e quali sono le città di riferimento ? 
 

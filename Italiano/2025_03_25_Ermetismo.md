@@ -9,7 +9,6 @@
 Firenze
 
 
-
 # Pag 626
 ## Domande
 ### Quali elementi caratterizzano la poetica ermetica ?
