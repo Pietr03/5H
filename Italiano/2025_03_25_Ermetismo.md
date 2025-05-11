@@ -4,6 +4,12 @@
 <input type="checkbox" id="tema-scuro"></input>
 </label>
 
+
+### Principale città in cui vengono prodotte le riviste ermetiche
+Firenze
+
+
+
 # Pag 626
 ## Domande
 ### Quali elementi caratterizzano la poetica ermetica ?

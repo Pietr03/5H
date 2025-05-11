@@ -1,0 +1,8 @@
+-- selezionare i dati dell'utente con il maggior numero di eventi registrati
+
+SELECT COUNT(*) as numero_eventi_registrati, Utenti.* 
+FROM Utenti
+INNER JOIN EVENTI USING(id_utente)
+GROUP BY id_utente
+ORDER BY numero_eventi_registrati DESC
+LIMIT 1

@@ -4,8 +4,12 @@
 <input type="checkbox" id="tema-scuro"></input>
 </label>
 
+La formazione culturale
+la posizione politica (ermetismo)
+
 
 # Salvatore Quasimodo 
+
 ## Poesia: Uomo del mio tempo
 
 Sei ancora quello della pietra e della fionda,

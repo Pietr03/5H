@@ -1,0 +1,7 @@
+PUT http://localhost:8080/api/dischi/3 HTTP/1.1
+content-type: application/json
+
+{
+    "titolo": "mannuale modificato",
+    "artista": "Pietro modificato"
+}
