@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Giulia",
+        "cognome": "Verdi",
+        "residenza": "Torino",
+        "stipendio": 1500.50
+    },
+    {
+        "nome": "Giuseppe",
+        "cognome": "Verdi",
+        "residenza": "Torino",
+        "stipendio": 1500.50
+    },
+    {
+        "nome": "Francesco",
+        "cognome": "Verdi",
+        "residenza": "Torino",
+        "stipendio": 1500.50
+    },
+    {
+        "nome": "Giovanni",
+        "cognome": "Verdi",
+        "residenza": "Torino",
+        "stipendio": 1500.50
+    }
+]

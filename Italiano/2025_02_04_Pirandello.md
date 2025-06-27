@@ -46,7 +46,7 @@ Doveva pure sopportare la moglie, tre cieche, la suocera e sua sorella, entrambe
 
 Una di queste sere non chiuse occhio, e cominciò a sentire il treno fischiare. Poche sere dopo, euforico del nuovo mondo che percepiva, cominciò a sentirsi ubriaco per le nuove sensazioni provate.
 
-Pochi giorni dopo si scusò dal capo-ufficio, e tornò al suo solito lavoro, ma il avrebbe smesso di chiedere troppo da lui come in passato.
+Pochi giorni dopo si scusò dal capo-ufficio, e tornò al suo solito lavoro, ma lui avrebbe smesso di chiedere troppo da lui come in passato.
 
 ---
 
@@ -137,7 +137,7 @@ Pirandello è l'italiano più famoso del 1900 nel campo della produzione teatral
 
 ### I primi passi nel mondo del teatro
 
-Comincia nel periodo siciliano, ma solo nel 1910 a Roma cominciano ad avere più riconoscimenti. È molto legato al suo dialetto, come per "Pensaci Giacomino!", scritto in siciliano e tradotto da lui stesso in italinao.
+Comincia nel periodo siciliano, ma solo nel 1910 a Roma comincia ad avere più riconoscimenti. È molto legato al suo dialetto, come per "Pensaci Giacomino!", scritto in siciliano e tradotto da lui stesso in italinao.
 Spesso i suoi teatri sono derivati dalle sue stesse novelle.
 
 ### Lo svuotamento del dramma borghese
@@ -229,7 +229,7 @@ La frantumazione dell'io, o relazione del singolo individuo con le sue diverse v
 
 Normalmente l'uomo tenderebbe a comportarsi in modo spontaneo, ma per vivere correttamente in società, bisogna spesso sopprimere il nostro vero io, e usare una maschera.
 
-La vita è come un fiume, di cui gli argini (le forme), tentano di limitare e incanalare.
+La vita è come un fiume, cui gli argini (le forme) tentano di limitare e incanalare.
 Gli argini sono il modo che noi stessi ci imponiamo per vivere secondo dei criteri e in modo coerente.
 Ma ci possono essere momenti in cui il fiume straripa ed esce fuori dagli argini, qui entra in gioco la **follia umana**, quando si manifesta, è libera di ogni limite auto-imposto.
 

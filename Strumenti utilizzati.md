@@ -12,3 +12,5 @@ https://books.bsmart.it/
 Libri riscattati:
 
 -   Storia (https://books.bsmart.it/)
+
+https://www.skuola.net/maturita/seconda-prova-maturita-informatica-telecomunicazioni-simulazioni.html

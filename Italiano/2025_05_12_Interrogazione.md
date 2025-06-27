@@ -4,6 +4,7 @@
 <input type="checkbox" id="tema-scuro"></input>
 </label>
 
+
 # Pag. 579 - Le avanguardie
 
 Le avanguardie letterarie sono movimenti che, indipendentemente dal periodo storico, cercano di **rompere nettamente le convenzioni letterarie del passato**, portare contenuti innovativi, rinnovare il rapporto tra arte e società,
@@ -167,7 +168,7 @@ L'attività poetica di Eugenio Montale si può dividere in tre fasi:
 - Poesia della "purezza" (1940-1950): Montale diventa più consapevole dell’impegno sociale della poesia, come in Le occasioni.
 - Riflessione sul tempo e sulla morte (1950-1980): Poesia più filosofica e meditativa, come in La bufera e altro e Satura.
 
-Le città di riferimento per Montale sono Genova (sua città natale) e Firenze e Milano.
+Le città di riferimento per Montale sono Genova (sua città natale), Firenze e Milano.
 
 ## Lo stile e la metrica
 Opposto del poeta vate di D'Annunzio, lui non si sentiva abile come poeta, D'Annunzio era abile con le parole da smuovere le masse. Montale usa uno stile **aspro e arido, scoglioso**.
@@ -331,7 +332,7 @@ Gli ebrei sono stati scelti da Hitler come capro espiatorio per la brutta situaz
 
 ---
 
-## 🎯 Significato generale
+## Significato generale
 
 - Il lavoro è visto come **fondamento della Repubblica** (come indicato anche nell’articolo 1).
 - C’è una visione **solidale**: il lavoro non è solo per sé stessi, ma anche per il **bene collettivo**.

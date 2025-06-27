@@ -5,7 +5,6 @@
 Un **sistema informatico** è solo una parte tecnologica del più ampio **sistema informativo**, che include anche componenti umane e procedurali. In breve, tutti i sistemi informatici fanno parte di un sistema informativo, ma non tutti i sistemi informativi sono esclusivamente informatici.
 
 
-
 # Archivio
 ## Sistema organizzato di informazioni con caratteristiche specifiche
 
